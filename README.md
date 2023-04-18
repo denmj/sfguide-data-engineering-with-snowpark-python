@@ -6,7 +6,8 @@ This README contains the overview and lab instructions for *Data Engineering Pip
 
 Here is an overview of what we'll build in this lab:
 
-<img src="images/demo_overview.png" width=800px>
+<img src="images/demo_ove
+rview.png" width=800px>
 
 ## Step 1 - Setup Anaconda Virtual Environment and Snowflake
 
